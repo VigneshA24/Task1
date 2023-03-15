@@ -1,5 +1,5 @@
 # Task1
-Difference between HTTP1.1 vs HTTP2
+HTTP1.1 vs HTTP2
 
 
   Blog on Difference between HTTP1.1 vs HTTP2
